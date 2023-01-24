@@ -444,7 +444,8 @@ h2 {
     box-shadow: 0px 0px 5px #888888;
     font-family: Poppins;
     font-size: 2em;
-    text-align: center;
+    text-align: left;
+	line-height: 2;
 }
 
 .closeBtn {
