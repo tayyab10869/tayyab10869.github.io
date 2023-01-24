@@ -505,4 +505,16 @@ h1 {
   #letterPopup {
 	overflow-y: scroll;
   }
-  
+  #letterPopup::-webkit-scrollbar {
+    width: 0.5em;
+}
+#letterPopup::-webkit-scrollbar-thumb {
+	background-color: #db838f;
+  }
+  #letterPopup::-webkit-scrollbar-track {
+	background-color: #f8e0d8;
+  }
+  #letterPopup::-webkit-scrollbar-thumb:hover {
+	background-color: #db4557;
+  }
+	  
