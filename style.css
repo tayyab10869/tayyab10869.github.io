@@ -497,4 +497,8 @@ h1 {
       width: 100%;
     }
   }
-      
+  .rustic {
+	font-family: 'Courier New', Courier, monospace;
+	color: #8B4513;
+	text-shadow: 2px 2px 4px #000000;
+  }
